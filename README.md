@@ -5,7 +5,7 @@ The current project analyzes steel images obtained from <a href='https://www.kag
 
 The train and test images, along with the sample submission and train files can be found <a href='https://www.kaggle.com/c/severstal-steel-defect-detection/data'> here. </a>
 
-A Vanilla U-Net model has been used for the image segmentations task. Details on the report can be found <a href='https://github.com/shubacca/Severstal-Steel-Defect-Segmentation/blob/master/Deliverables/Milestone%20Report%202.pdf'> here. </a>
+A Vanilla U-Net model has been used for the image segmentations task. Details on the report can be found <a href='https://github.com/shubacca/Severstal-Steel-Defect-Segmentation/blob/master/Deliverables/Final%20Report.pdf'> here. </a>
 
 The Jupyter notebook associated with the project can be found <a href='https://nbviewer.jupyter.org/github/shubacca/Severstal-Steel-Defect-Segmentation/blob/master/Deliverables/Final%20Copy%20of%20Code.ipynb'> here. </a> 
 
